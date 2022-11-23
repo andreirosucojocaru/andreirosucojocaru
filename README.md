@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @andreirosucojocaru
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center">
+	<a href="https://twitter.com/arosucojocaru"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://github.com/andreirosucojocaru"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/andreirosucojocaru"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
+
 
 <!---
 andreirosucojocaru/andreirosucojocaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
